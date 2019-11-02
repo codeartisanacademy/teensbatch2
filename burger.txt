@@ -3,6 +3,8 @@ Ingredients:
 1. Bun
 2. Patty
 3. Tomato
+4. Lettuce
+5. Cheese
 
 Ingredients for Sauce:
 1. Mayonnaise
